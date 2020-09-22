@@ -1,7 +1,6 @@
 # Java Week Zero
 doing the maaike van putten java course, this is week zero
 
-
 Content
 - What is Java and why does the world need it?
 - [X] https://woz-u.com/blog/what-is-java-u...
@@ -13,13 +12,10 @@ This video
 
 - Classes, objects and class members
 Other videos on this channel
-- [ ] https://www.w3schools.com/java/java_c... 
-
-- Packages
-- [ ] Other videos on this channel
+- [X] https://www.w3schools.com/java/java_c... 
 
 - [X] https://www.geeksforgeeks.org/package...
-- [ ] https://www.w3schools.com/java/java_p... 
+- [X] https://www.w3schools.com/java/java_p... 
 
 Homework
 - [ ] Create an IntelliJ project
